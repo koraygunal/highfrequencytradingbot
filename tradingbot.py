@@ -10,7 +10,7 @@ import pandas_ta as pta
 trdPair1 = 'BTC'
 trdPair2 = 'USDT'
 
-file="credentials.txt"
+file="informations.txt"
 
 
 with open("credentials.txt") as f:
