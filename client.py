@@ -1,8 +1,8 @@
 import socket
 import time
 
-IP = "3.126.224.214"
-PORT = 13080
+IP = ""
+PORT = 12345
 ADDR=(IP,PORT)
 FORMAT = "utf-8"
 SIZE = 1024
